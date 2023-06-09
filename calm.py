@@ -1,3 +1,4 @@
+import streamlit as st
 # 2つの数値を入力として受け取る
 num1 = float(input("最初の数値を入力してください: "))
 num2 = float(input("2番目の数値を入力してください: "))
